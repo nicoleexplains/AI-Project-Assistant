@@ -1,0 +1,5 @@
+{
+  "name": "AI Project Assistant",
+  "description": "An intelligent project management tool that uses AI to analyze risks, create tasks from natural language, and generate automated status summaries.",
+  "requestFramePermissions": []
+}
